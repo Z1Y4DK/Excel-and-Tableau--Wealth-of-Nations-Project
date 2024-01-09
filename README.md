@@ -2,11 +2,11 @@
 
 # **Table of Contents:**
 
-Overview
-Project Structure
-Excel 
-Tableau
-Usage
+Overview,
+Project Structure,
+Excel,
+Tableau,
+Usage,
 
 # **Overview:**
 
