@@ -1,4 +1,4 @@
-📊 Wealth of Nations Data Explorer
+📊 Wealth of Nations Data Project
 
 Table of Contents:
 
