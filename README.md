@@ -6,7 +6,7 @@ Overview,
 Project Structure,
 Excel,
 Tableau,
-Usage,
+Usage
 
 # **Overview:**
 
