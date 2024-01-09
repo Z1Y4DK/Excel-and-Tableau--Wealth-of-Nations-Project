@@ -11,7 +11,7 @@ Usage
 
 Overview:
 
-My Wealth of Nations Data Explorer! 🌍💰 In this project, I dived into the Wealth of Nations data, using Excel and Tableau to clean, filter, visualise, and analyze my data.
+My Wealth of Nations Data Explorer! 🌍💰 In this project, I dived into the Wealth of Nations data, using Excel and Tableau to clean, filter, visualize, and analyze my data.
 
 Project Structure:
 
@@ -38,13 +38,13 @@ After Excel I used Tableau to elevate the analysis to the next level:
 
 Dashboard Design: The ultimate goal is to make complex data easily understandable. I crafted interactive dashboards in Tableau, providing an immersive experience for users to explore the economic landscape of different countries.
 
-Top 20 Wealthiest/Poorest Countries: One of the highlights of this project is the creation of a dashboard showcasing the top 20 wealthiest and poorest countries. The visualisations I used encapsulates the diffrent countries.
+Top 20 Wealthiest/Poorest Countries: One of the highlights of this project is the creation of a dashboard showcasing the top 20 wealthiest and poorest countries. The visualizations I used encapsulates the different countries.
 
 Usage:
 
 📂 Navigate to the project directory: The Wealth of nations (1).xlsx
 
-📊 Explore my data visualisation: https://public.tableau.com/app/profile/zizou.k/vizzes
-
+📊 Explore my data visualization: https://public.tableau.com/app/profile/zizou.k/vizzes
+      
 📖 Check out documentation of this project: Presentation.pptx
 
