@@ -46,4 +46,3 @@ Usage:
 📊 Explore my data visualization: https://public.tableau.com/app/profile/zizou.k/vizzes
       
 📖 Check out documentation of this project: Presentation.pptx
-
