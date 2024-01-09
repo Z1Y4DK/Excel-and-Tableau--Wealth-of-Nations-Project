@@ -41,7 +41,7 @@ Top 20 Wealthiest/Poorest Countries: One of the highlights of this project is th
 
 Usage:
 
-📂 Navigate to the project directory: The Wealth of nations (1).xlsx
+📂 Project Dataset: The Wealth of nations (1).xlsx
 
 📊 Explore my data visualization: https://public.tableau.com/app/profile/zizou.k/vizzes
       
